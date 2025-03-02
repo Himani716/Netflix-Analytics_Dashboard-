@@ -6,7 +6,7 @@ This repository contains a **Power BI dashboard** designed to analyze Netflix's 
 
 ## 📥 File
 
-- [Download Netflix_Analytics_Dashboard.pbix](Netflix_Analytics_Dashboard.pbix) (Open with **Power BI Desktop**)
+- [Download_netflix_analysis.pbix](netflix_analysis.pbix) (Open with **Power BI Desktop**)
 
 ---
 
